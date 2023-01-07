@@ -6,9 +6,8 @@
 
 <hr>
 
-### 1. react 설치
-
-1. npm 설치확인 
+<!-- ### 1. vite-react 설치 -->
+<!-- 1. npm 설치확인 
 
 ``` 
 npm -v
@@ -28,10 +27,15 @@ npx create-react-app blog
 4. 실행 
 ```
 npm start
-```
+``` -->
 
-### 2. vite 설치
+### 1. vite 설치
 
 ```
 npm create vite@latest
+```
+
+### 2. vite 시작
+```
+npm run dev
 ```
